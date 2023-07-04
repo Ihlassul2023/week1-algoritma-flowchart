@@ -1,0 +1,9 @@
+#Algoritma
+-Masukan input kalimat 
+-Membuat 2 buah wadah untuk menyimpan kalimat wadah pertama bertipe string & yang kedua bertipe array 
+-Akses kalimat tersebut sesuai urutan masukan kedalam wadah pertama bertipe string 
+-Cek jika isi kalimat terdapat spasi kosong ,maka wadah bertipe string masukan ke wadah bertipe array dari depan 
+-Kosongkan Kembali wadah bertipe string 
+-Dan apabila isi kalimat adalah yang paling terakhir maka kita masukan isi kalimat ke wadah string lalu masukan ke wadah bertipe array 
+-Ubah wadah array menjadi string
+-Output wadah ke dua (array)

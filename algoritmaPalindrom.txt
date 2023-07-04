@@ -1,0 +1,5 @@
+-Memasukan input teks 
+-Menyiapkan sebuah wadah untuk menyimpan teks 
+-Mengakses isi teks mulai dari urutan belakang lalu disimpan kedalam wadah 
+-Wadah kita bandingkan dengan teks 
+-Jika isinya sama maka itu adalah sebuah palindrom 
